@@ -6,14 +6,29 @@ Software Engineer (PHP/Laravel)
 
 Passionate Laravel Developer | Architect of Efficient and Scalable Web Solutions With three years of hands-on experience, I thrive on transforming innovative ideas into dynamic, high-performance web applications. As a dedicated Laravel Developer, my robust foundation in PHP and keen eye for detail allow me to specialize in building seamless, user-centric experiences that drive engagement and achieve business goals. Over the years, I have honed my skills in developing, testing, and maintaining complex applications, ensuring they are both scalable and secure. My expertise extends to integrating third-party services, optimizing performance, and employing best practices for clean, maintainable code. 
 
-Key Highlights: Proficient in Laravel Framework: Leveraging the power of Laravel to deliver feature-rich applications. 
-Full-Stack Development: Expertise in both front-end and back-end technologies to build complete solutions. 
-API Integration: Skilled in creating and consuming RESTful APIs for enhanced functionality. 
-Database Management: Advanced knowledge in MySQL, ensuring efficient data storage and retrieval. 
-Problem Solver: Adept at identifying issues and implementing effective solutions quickly. 
-Team Player: Strong collaboration skills with cross-functional teams to achieve project success. 
-What Drives Me: My motivation stems from a relentless pursuit of excellence and a passion for learning. I am constantly exploring new technologies and methodologies to stay ahead in the fast-evolving tech landscape. This commitment to growth enables me to deliver innovative solutions that not only meet but exceed client expectations. 
-Let's Connect: I am always open to new challenges and opportunities to contribute to exciting projects. Let's connect and explore how my skills can add value to your team or project.
+Key Highlights: 
+Proficient in Laravel Framework: Leveraging the power of Laravel to deliver feature-rich applications. 
+
+Full-Stack Development: 
+Expertise in both front-end and back-end technologies to build complete solutions. 
+
+API Integration: 
+Skilled in creating and consuming RESTful APIs for enhanced functionality. 
+
+Database Management: 
+Advanced knowledge in MySQL, ensuring efficient data storage and retrieval. 
+
+Problem Solver: 
+Adept at identifying issues and implementing effective solutions quickly. 
+
+Team Player: 
+Strong collaboration skills with cross-functional teams to achieve project success. 
+
+What Drives Me: 
+My motivation stems from a relentless pursuit of excellence and a passion for learning. I am constantly exploring new technologies and methodologies to stay ahead in the fast-evolving tech landscape. This commitment to growth enables me to deliver innovative solutions that not only meet but exceed client expectations. 
+
+Let's Connect: 
+I am always open to new challenges and opportunities to contribute to exciting projects. Let's connect and explore how my skills can add value to your team or project.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [raheelahmed017@gmail.com](mailto:raheelahmed017@gmail.com)
