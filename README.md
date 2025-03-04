@@ -1,58 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raheel Ahmed
-====================================================================================================================================
+# Hi there! 👋 I'm Raheel Ahmed
 
-Software Engineer (PHP/Laravel)
--------------------------------
+### 🚀 Software Engineer | PHP/Laravel Developer  
 
-Passionate Laravel Developer | Architect of Efficient and Scalable Web Solutions With three years of hands-on experience, I thrive on transforming innovative ideas into dynamic, high-performance web applications. As a dedicated Laravel Developer, my robust foundation in PHP and keen eye for detail allow me to specialize in building seamless, user-centric experiences that drive engagement and achieve business goals. Over the years, I have honed my skills in developing, testing, and maintaining complex applications, ensuring they are both scalable and secure. My expertise extends to integrating third-party services, optimizing performance, and employing best practices for clean, maintainable code. 
+Passionate about crafting efficient, scalable, and high-performance web applications, I specialize in **Laravel** and **PHP** with three years of hands-on experience. I love turning innovative ideas into dynamic digital solutions while ensuring clean, maintainable code and seamless user experiences.  
 
-Key Highlights: 
-Proficient in Laravel Framework: Leveraging the power of Laravel to deliver feature-rich applications. 
+## 🛠️ What I Do  
 
-Full-Stack Development: 
-Expertise in both front-end and back-end technologies to build complete solutions. 
+✅ **Laravel Development** – Expert in building robust, feature-rich applications.  
+✅ **Full-Stack Development** – Proficient in both frontend and backend technologies.  
+✅ **API Integration** – Skilled in developing & consuming RESTful APIs.  
+✅ **Database Management** – Strong experience with **MySQL** and **MongoDB**.  
+✅ **Problem Solving** – Adept at identifying and resolving complex challenges.  
+✅ **Team Collaboration** – Thrive in cross-functional teams for project success.  
 
-API Integration: 
-Skilled in creating and consuming RESTful APIs for enhanced functionality. 
+## 🎯 What Drives Me  
 
-Database Management: 
-Advanced knowledge in MySQL, ensuring efficient data storage and retrieval. 
+I’m constantly learning and evolving to stay ahead in the fast-moving tech landscape. My motivation stems from a passion for creating meaningful software solutions and contributing to innovative projects.  
 
-Problem Solver: 
-Adept at identifying issues and implementing effective solutions quickly. 
+## 📬 Let's Connect!  
 
-Team Player: 
-Strong collaboration skills with cross-functional teams to achieve project success. 
-
-What Drives Me: 
-My motivation stems from a relentless pursuit of excellence and a passion for learning. I am constantly exploring new technologies and methodologies to stay ahead in the fast-evolving tech landscape. This commitment to growth enables me to deliver innovative solutions that not only meet but exceed client expectations. 
-
-Let's Connect: 
-I am always open to new challenges and opportunities to contribute to exciting projects. Let's connect and explore how my skills can add value to your team or project.
-
-* 🌍  I'm based in Karachi, Pakistan
-* ✉️  You can contact me at [raheelahmed017@gmail.com](mailto:raheelahmed017@gmail.com)
-* 🧠  I'm learning NodeJS, NextJs
-
-### Skills
-
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/balochCoder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raheel-ahmed-857764117/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=balochCoder&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=balochCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+📍 **Location:** Karachi, Pakistan  
+📧 **Email:** [raheelahmed017@gmail.com](mailto:raheelahmed017@gmail.com)  
+🔗 **LinkedIn:** [Raheel Ahmed](https://www.linkedin.com/in/raheel-ahmed-857764117/)  
+🐙 **GitHub:** [balochCoder](https://github.com/balochCoder)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=balochCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Skills & Technologies  
+
+### 🌐 Web Development  
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+
+### 📡 Backend & APIs  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![RESTful APIs](https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logo=api&logoColor=white)  
+
+### 🛢️ Databases  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### 🎨 Frontend  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### ⚙️ Dev Tools  
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balochCoder&theme=swift&hide_border=false" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balochCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+---
+
+🚀 *Always open to exciting opportunities and collaborations!* Let’s connect and build something amazing together!  
