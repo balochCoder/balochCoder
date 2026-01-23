@@ -15,7 +15,7 @@ Passionate about crafting efficient, scalable, and high-performance web applicat
 
 ## 🎯 What Drives Me  
 
-I’m constantly learning and evolving to stay ahead in the fast-moving tech landscape. My motivation stems from a passion for creating meaningful software solutions and contributing to innovative projects.  
+I'm constantly learning and evolving to stay ahead in the fast-moving tech landscape. My motivation stems from a passion for creating meaningful software solutions and contributing to innovative projects.  
 
 ## 📬 Let's Connect!  
 
@@ -63,24 +63,13 @@ I’m constantly learning and evolving to stay ahead in the fast-moving tech lan
 
 ## 📊 GitHub Stats  
 
+<div align="center">
 
-  
-  ![Raheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=30&card_width=200%)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balochCoder&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-  ![Raheel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balochCoder&theme=swift&hide_border=false&stroke=0000&background=FFFFFF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balochCoder&layout=compact&theme=radical&hide_border=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balochCoder&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=100%)  
-
+</div>
 
 
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balochCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
----
-
-🚀 *Always open to exciting opportunities and collaborations!* Let’s connect and build something amazing together!  
+🚀 *Always open to exciting opportunities and collaborations!* Let's connect and build something amazing together!  
