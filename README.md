@@ -59,17 +59,4 @@ I'm constantly learning and evolving to stay ahead in the fast-moving tech lands
 
 </div>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balochCoder&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balochCoder&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-
 🚀 *Always open to exciting opportunities and collaborations!* Let's connect and build something amazing together!  
