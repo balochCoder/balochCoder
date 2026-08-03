@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Laravel Backend Engineer
 
-Results-driven Backend/Full-Stack Engineer with **4+ years** of hands-on experience building high-traffic web applications and RESTful APIs across e-commerce, healthcare, and logistics domains. I specialize in **Laravel** and **PHP**, with strong cross-stack exposure to **React.js**, **Next.js**, **NestJS**, and **Node.js**. I love turning ideas into scalable, maintainable digital solutions with clean, SOLID-compliant code.
+Results-driven Backend/Full-Stack Engineer with **4+ years** of hands-on experience building high-traffic web applications and RESTful APIs across e-commerce, healthcare, and logistics domains. I specialize in **Laravel** and **PHP**, with strong cross-stack exposure to **React.js**, **Next.js**, **NestJS**, and **Node.js**. I love turning ideas into scalable, maintainable digital solutions with clean.
 
 ---
 
